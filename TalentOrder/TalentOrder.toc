@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: TalentOrder
+## Notes: Spends talent points in the order you planned, for any class. /to plan opens the planner, /to on spends, /to shows the status.
+## Version: 1.1
+## SavedVariablesPerCharacter: TalentOrderDB
+
+Order.lua
+Picker.lua
+Plan.lua
+Tree.lua
+Model.lua
+Core.lua
+Window.lua
